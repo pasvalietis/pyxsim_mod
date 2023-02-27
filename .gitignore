@@ -15,3 +15,4 @@ sky_functions.c
 spectra.c
 interpolate.c
 .idea
+*.h5
